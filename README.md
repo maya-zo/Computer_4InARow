@@ -1,3 +1,3 @@
-# FourInARow_ml
+# Computer_FourInARow
 
-machine learning 4 in a row game
+computer vs player 4 in a row game, implemented with min-max algorithm.
